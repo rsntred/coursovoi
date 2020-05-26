@@ -1,12 +1,12 @@
 @font-family{
 	font-family: Peignot;
-	src:url(fonts/PG_____R.ttf);
+	src:url(PG_____R.ttf);
 }
 
 *{
 	padding:0px;
 	margin:0px;
-	font-family: Peignot;
+	font-family: Peignot, serif;
 }
 
 body{
