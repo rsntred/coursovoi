@@ -1,0 +1,28 @@
+#dws-slider{
+	width:60%;
+	margin-left:19%;
+	/*margin-top:10%;*/
+}
+
+.carousel-caption{
+	position: absolute;
+/* 	background-color: orange; */
+	width: 60%;/
+	height: 50%;
+	margin-left: 10%;
+	top:12%;
+}
+
+.carousel-inner h3 {
+	font-size: 2.5vw;
+/* 	margin-top: -8vw; */
+/* 	color: #191919; */
+/* 	background-color: rgba(20, 49, 68, 0.6);
+	padding: 4%; */
+}
+/* .carousel-inner p {
+	font-size: 1.2vw;
+	background-color: rgba(30, 29, 29, 0.6);
+	padding: 4%;
+	line-height: 0.9em;
+}   */
