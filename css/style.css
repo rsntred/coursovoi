@@ -1,6 +1,7 @@
 @font-family{
 	font-family: Peignot;
-	src:url(PG_____R.ttf);
+	/*src:url(PG_____R.ttf);*/
+	src:url(Peignot.ttf);
 }
 
 *{
@@ -194,6 +195,10 @@ header{
 	height: 30%;
 	margin-top: 1vw;
 /* 	background-color: #000; */
+}
+
+.contact-text h3{
+	display: none;
 }
 
 .contacts p{
