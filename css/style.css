@@ -1,8 +1,6 @@
 @font-family{
 	font-family: Peignot;
-	src:url(PG_____R.ttf);
-	src:url(../fonts/PG_____R.ttf) format('ttf');
-	/*src:local(Peignot.ttf);*/
+	src:url(../fonts/6668.ttf);
 }
 
 *{
