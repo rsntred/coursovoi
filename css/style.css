@@ -1,7 +1,7 @@
 @font-family{
 	font-family: Peignot;
-	/*src:url(PG_____R.ttf);*/
-	src:local(Peignot.ttf);
+	src:url(PG_____R.ttf);
+	/*src:local(Peignot.ttf);*/
 }
 
 *{
